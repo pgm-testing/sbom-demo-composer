@@ -1,0 +1,18 @@
+{
+  "repository": "pgm-testing/sbom-demo-composer",
+  "action_revision": "ed68e4cc4c42a25a88a12f8ac26f520986851ec5",
+  "probes": [
+    {
+      "name": "stellar_php_sdk",
+      "purl": "pkg:composer/soneso/stellar-php-sdk",
+      "version": "1.17.0",
+      "repo": "pkg:github/Soneso/stellar-php-sdk"
+    },
+    {
+      "name": "Guzzle control",
+      "purl": "pkg:composer/guzzlehttp/guzzle",
+      "version": "7.9.2",
+      "repo": null
+    }
+  ]
+}

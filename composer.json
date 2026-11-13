@@ -1,0 +1,10 @@
+{
+  "name": "pgm-testing/sbom-demo-composer",
+  "description": "PG Atlas dependency coverage fixture",
+  "type": "project",
+  "require": {
+    "php": "^8.3",
+    "soneso/stellar-php-sdk": "1.17.0",
+    "guzzlehttp/guzzle": "7.9.2"
+  }
+}
